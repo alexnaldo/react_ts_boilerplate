@@ -1,0 +1,37 @@
+{
+  "name": "react_ts_boilerplate",
+  "version": "1.0.0",
+  "description": "A clean boilerplate for React + Typescript + Babel + Webpack + Hot Reload + Debug",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack serve",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
+  "keywords": [],
+  "author": "Alexnaldo Santos",
+  "e-mail":"alexnaldo.santos@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "@babel/preset-typescript": "^7.12.7",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "cross-env": "^7.0.2",
+    "html-webpack-plugin": "^4.5.0",
+    "react-refresh": "^0.9.0",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
