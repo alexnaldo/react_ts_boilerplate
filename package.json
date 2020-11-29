@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Alexnaldo Santos",
-  "e-mail":"alexnaldo.santos@gmail.com",
+  "e-mail": "alexnaldo.santos@gmail.com",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
@@ -29,6 +29,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "cross-env": "^7.0.2",
     "html-webpack-plugin": "^4.5.0",
+    "prettier": "2.2.1",
     "react-refresh": "^0.9.0",
     "webpack": "^5.9.0",
     "webpack-cli": "^4.2.0",
