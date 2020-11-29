@@ -12,6 +12,7 @@
 Clone this repository and install dependencies
 ```bash
 $ git clone https://github.com/alexnaldo/react_ts_boilerplate.git
+$ cd react_ts_boilerplate
 $ npm i
 ```
 
